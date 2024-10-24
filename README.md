@@ -7,7 +7,10 @@ An open-source ecosystem used for integrating LLMs into applications without pay
 
 Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
 
-[!NOTE]I want the readers to read it carefully as it contains many important docs.  
+## Simple alerts
+> [!NOTE]
+> This is a note.  
+ 
 
 ## Steps to follow
 
