@@ -24,7 +24,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model_1.png)
 
-4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads
+4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads...
 
 ![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
 
@@ -40,8 +40,6 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
 
 6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/browse.png" style='height: 70%; width: 70%;'>
 
 7. Configure settings
 > [!TIP]
