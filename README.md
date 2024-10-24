@@ -8,10 +8,10 @@ An open-source ecosystem used for integrating LLMs into applications without pay
 Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
 
 ## Benefits
-Run Large Language Models Locally. 
-Privacy first
-No internet required
-Allows smaller businesses, organizations, and independent researchers to use and integrate an LLM for specific applications. And with GPT4All easily installable through a one-click installer, people can now use GPT4All and many of its LLMs for content creation, writing code, understanding documents, and information gathering.
+* Run large language models locally 
+* Privacy first  
+* No internet required  
+* Allows smaller businesses, organizations, and independent researchers to use and integrate an LLM for specific applications. And with GPT4All easily installable through a one-click installer, people can now use GPT4All and many of its LLMs for content creation, writing code, understanding documents, and information gathering.
 
 ## Reasons why you might want to use GPT4All over ChatGPT.
 
