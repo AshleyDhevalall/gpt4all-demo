@@ -37,15 +37,13 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 6.1 Click `LocalDocs` on left menu. Provide a `Collection name...`
 > [!TIP]
-> See [localdocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html) for further instructions 
+> [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html)
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
 
-6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5)
+6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/browse.png" style='height: 70%; width: 70%;'>
-
-6.3 Click 
 
 7. Configure settings
 > [!TIP]
