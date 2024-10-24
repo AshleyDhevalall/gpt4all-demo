@@ -35,11 +35,15 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
 
-6. Click `LocalDocs` on left menu. Provide a `Collection name...`, then click `Browse`. Navigate to cloned repository folder above
+6.1 Click `LocalDocs` on left menu. Provide a `Collection name...`
 > [!TIP]
 > See [localdocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html) for further instructions 
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
+
+6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5)
+
+6.3 Click 
 
 7. Configure settings
 > [!TIP]
