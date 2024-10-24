@@ -7,11 +7,6 @@ An open-source ecosystem used for integrating LLMs into applications without pay
 
 Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
 
-## Simple alerts
-> [!NOTE]
-> This is a note.  
- 
-
 ## Steps to follow
 
 1. Download and install [GPT4All](https://www.nomic.ai/gpt4all)  
@@ -22,8 +17,9 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 ![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
-3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button
-
+3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
+> [!NOTE]
+> See [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)  
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
