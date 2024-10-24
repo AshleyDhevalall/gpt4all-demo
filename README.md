@@ -26,7 +26,7 @@ This project is hosted on [GitHub](https://github.com/AshleyDhevalall/gpt4all-de
 
 ![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
-3. Adding new model (Click `Models` on left menu) and then click `Add Model` button
+3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
