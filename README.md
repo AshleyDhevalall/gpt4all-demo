@@ -1,7 +1,7 @@
 # gpt4all-demo
 The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze powershell scripts that make use of a sql server.
 
-### What is GTP4All?
+## What is GTP4All?
 
 An open-source ecosystem used for integrating LLMs into applications without paying for a platform or hardware subscription. It was created by Nomic AI, an information cartography company that aims to improve access to AI resources.
 
