@@ -36,7 +36,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 > [!NOTE]
 > See [localdocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html) for further instructions on `LocalDocs`.  
 
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" width="300" height="500">
+<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 100%; width: 100%; object-fit: contain'>
 
 7. Configure settings
 > [!NOTE]
