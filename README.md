@@ -33,7 +33,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
   6.1 Click `LocalDocs` on left menu. Provide a `Collection name` eg. `Sample Test`
 > [!TIP]
-> [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html  
+> [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html)  
 >  Make sure each file type you need the LLM to read is listed here
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
