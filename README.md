@@ -44,7 +44,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 ### Further reading 
 [GPT4All Wiki](https://github.com/nomic-ai/gpt4all/wiki)  
-[Frequently Asked Questions](https://docs.gpt4all.io/gpt4all_help/faq.html)  
+[GPT4All FAQ](https://docs.gpt4all.io/gpt4all_help/faq.html)  
 [What Is GPT4All and How Does It Work?](https://www.makeuseof.com/what-is-gpt4all-and-how-does-it-work/)  
 
 ## Authors
