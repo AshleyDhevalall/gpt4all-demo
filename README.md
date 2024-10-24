@@ -37,7 +37,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
 
-6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder
+6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder  
 
 7. Configure settings
 > [!TIP]
