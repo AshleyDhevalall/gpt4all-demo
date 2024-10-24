@@ -17,13 +17,13 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
 > [!NOTE]
-> See [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart) for further instructions on `Adding new model`
+> See [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart) for further instructions
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
 4. Search for `Llama 3.2 1B Instruct` and then click `Download`
 > [!NOTE]
-> See [models](https://docs.gpt4all.io/gpt4all_desktop/models.html) for further instructions on `Models`
+> See [models](https://docs.gpt4all.io/gpt4all_desktop/models.html) for further instructions
 
 ![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
 
@@ -34,19 +34,19 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 6. Click `LocalDocs` on left menu. Provide a `Collection name...`, then click `Browse`. Navigate to cloned repository folder above
 > [!NOTE]
-> See [localdocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html) for further instructions on `LocalDocs`.  
+> See [localdocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html) for further instructions 
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 40%; width: 40%;'>
 
 7. Configure settings
 > [!NOTE]
-> See [settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html) for further instructions on `Settings`. 
+> See [settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html) for further instructions
 
 ![settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
 
 8. Start chat
 > [!NOTE]
-> See [settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html) for further instructions on `Chat`. 
+> See [settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html) for further instructions
 
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
