@@ -43,7 +43,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 7. Configure settings
 > [!TIP]
-> [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
+> [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)  
 > [Allowed File Extensions](https://github.com/nomic-ai/gpt4all/wiki/LocalDocs)
 
 ![settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
