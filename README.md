@@ -10,16 +10,14 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 ## Steps to follow
 
 1. Download and install [GPT4All](https://www.nomic.ai/gpt4all)  
-
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/download.png" width="300" height="400">
 
 2. Open GTP4All  
-
 ![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
 > [!NOTE]
-> See [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)  
+> See [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart) for further instructions.
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
@@ -33,14 +31,20 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
 
 6. Click `LocalDocs` on left menu. Provide a `Collection name...`, then click `Browse`. Navigate to cloned repository folder above
+> [!NOTE]
+> See [localdocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html) for further instructions.  
 
 ![add_document_collection](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png)
 
 7. Configure settings
+> [!NOTE]
+> See [settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html) for further instructions. 
 
 ![settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
 
 8. Start chat
+> [!NOTE]
+> See [settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html) for further instructions. 
 
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
