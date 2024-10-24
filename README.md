@@ -39,6 +39,8 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
   6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder. Please patient while the embeddings complete...  
 
+<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/embeddings.png" style='height: 70%; width: 70%;'>
+
 7. Configure settings
 > [!TIP]
 > [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
