@@ -49,7 +49,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 8. Start chat
 > [!TIP]
-> [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
+> [Chat](https://docs.gpt4all.io/gpt4all_desktop/chats.htmll)
 
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
