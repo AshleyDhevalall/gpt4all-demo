@@ -21,7 +21,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
-4. Downloading model. Search for Llama 32 1B Instruct in the `Discover and download models by keyword search...` text field and then click `Download`
+4. Search for `Llama 32 1B Instruct` and then click `Download`
 
 ![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
 
