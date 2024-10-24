@@ -18,7 +18,7 @@ This project is hosted on [GitHub](https://github.com/AshleyDhevalall/gpt4all-de
 
 ## Steps to follow
 
-1. Download and install GTP4All  
+1. Download and install [GPT4All](https://www.nomic.ai/gpt4all)  
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/download.png" width="300" height="400">
 
