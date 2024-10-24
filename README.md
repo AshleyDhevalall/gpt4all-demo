@@ -13,20 +13,17 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 ## Steps to follow
 
-https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png
+1. [Open GTP4All](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
+2. [Add model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
-1. ![Open GTP4All](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
+3. [Download model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
 
-2. ![Add model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
+4. [Upload local docs](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png)
 
-3. ![Download model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
+5. [Configure settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
 
-4. ![Upload local docs](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png)
-
-5. ![Configure settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
-
-6. ![Start chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
+6. [Start chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
 ## Authors
 
