@@ -13,7 +13,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 > [!TIP]
 > [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html)  
 
-2. Open GTP4All  
+2. Open GTP4All. Please patient while the application opens...  
 ![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
