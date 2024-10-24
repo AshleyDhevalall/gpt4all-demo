@@ -14,33 +14,40 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 ## Getting the Source
 
 This project is hosted on [GitHub](https://github.com/AshleyDhevalall/gpt4all-demo). You can clone this project directly using this command:
+
+
+## Steps to follow
+
+1. Download and install GTP4All  
+
+![download](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/download.png)
+
+2. Open GTP4All  
+
+![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
+
+3. Add model
+
+![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
+
+4. Download model
+
+![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
+
+5. Clone repository
 ```
 git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
 
-## Steps to follow
-
-1. Open GTP4All  
-
-![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
-
-2. Add model
-
-![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
-
-3. Download model
-
-![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
-
-4. Upload local docs
+6. Upload local docs
 
 ![add_document_collection](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png)
 
-5. Configure settings
+7. Configure settings
 
 ![settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
 
-6. Start chat
+8. Start chat
 
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
