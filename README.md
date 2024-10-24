@@ -30,7 +30,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
 
-6. Upload local docs
+6. Upload local docs. Navigate to cloned repository folder above
 
 ![add_document_collection](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png)
 
