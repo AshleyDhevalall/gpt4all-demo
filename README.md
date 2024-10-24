@@ -43,6 +43,8 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5)
 
+<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/browse.png" style='height: 70%; width: 70%;'>
+
 6.3 Click 
 
 7. Configure settings
