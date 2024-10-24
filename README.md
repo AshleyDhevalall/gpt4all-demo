@@ -10,7 +10,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 ## Steps to follow
 
 1. Download GPT4All Desktop [GPT4All](https://www.nomic.ai/gpt4all)
-> [!NOTE]
+> [!TIP]
 > [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html)
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/download.png" width="300" height="400">
@@ -19,13 +19,13 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 ![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
-> [!NOTE]
+> [!TIP]
 > [Models](https://docs.gpt4all.io/gpt4all_desktop/models.html)
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
 4. Search for `Llama 3.2 1B Instruct` and then click `Download`
-> [!NOTE]
+> [!TIP]
 > [Models](https://docs.gpt4all.io/gpt4all_desktop/models.html)
 
 ![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
@@ -36,19 +36,19 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
 
 6. Click `LocalDocs` on left menu. Provide a `Collection name...`, then click `Browse`. Navigate to cloned repository folder above
-> [!NOTE]
+> [!TIP]
 > See [localdocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html) for further instructions 
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 40%; width: 40%;'>
 
 7. Configure settings
-> [!NOTE]
+> [!TIP]
 > [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
 
 ![settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
 
 8. Start chat
-> [!NOTE]
+> [!TIP]
 > [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
 
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
