@@ -31,7 +31,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
 
-6.1 Click `LocalDocs` on left menu. Provide a `Collection name...`
+6.1 Click `LocalDocs` on left menu. Provide a `Collection name` eg. `Sample Test`
 > [!TIP]
 > [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html)
 
