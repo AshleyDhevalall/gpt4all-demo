@@ -22,7 +22,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 > [!TIP]
 > [Models](https://docs.gpt4all.io/gpt4all_desktop/models.html)
 
-![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
+![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model_1.png)
 
 4. Search for `Llama 3.2 1B Instruct` and then click `Download`
 > [!TIP]
