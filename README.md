@@ -21,7 +21,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
-4. Search for `Llama 32 1B Instruct` and then click `Download`
+4. Search for `Llama 3.2 1B Instruct` and then click `Download`
 
 ![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
 
@@ -30,7 +30,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
 
-6. Upload local docs. Navigate to cloned repository folder above
+6. Upload local docs. Click `LocalDocs` on left menu. Provide a name for the collection and then navigate to cloned repository folder above
 
 ![add_document_collection](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png)
 
