@@ -46,7 +46,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 > [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)  
 > [Allowed File Extensions](https://github.com/nomic-ai/gpt4all/wiki/LocalDocs)
 
-![settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/show_sources.png)
+![allowed_file_extensions](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/allowed_file_extensions.png)
 
 8. Click `New chat` on left menu.
 > [!TIP]
