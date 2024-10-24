@@ -13,6 +13,15 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 ## Steps to follow
 
+1. Open GTP4All  
+
+![test](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
+
+
+
+
+
+
 1. [Open GTP4All](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
 2. [Add model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
