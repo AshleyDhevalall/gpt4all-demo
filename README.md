@@ -11,7 +11,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 * Run large language models locally 
 * Privacy first  
 * No internet required  
-* Allows smaller businesses, organizations, and independent researchers to use and integrate an LLM for specific applications. And with GPT4All easily installable through a one-click installer, people can now use GPT4All and many of its LLMs for content creation, writing code, understanding documents, and information gathering.
+* Allows smaller businesses, organizations, and independent researchers to use and integrate an LLM for specific applications.
 
 ## Reasons why you might want to use GPT4All over ChatGPT.
 
