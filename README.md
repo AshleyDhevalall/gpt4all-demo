@@ -11,9 +11,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 1. Download [GPT4All Desktop](https://www.nomic.ai/gpt4all)
 > [!TIP]
-> [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html)
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/download.png" width="300" height="400">
+> [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html)  
 
 2. Open GTP4All  
 ![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
