@@ -26,11 +26,11 @@ This project is hosted on [GitHub](https://github.com/AshleyDhevalall/gpt4all-de
 
 ![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
 
-3. Adding new model (Click `Models` on left menu) and then click `Add model` button
+3. Adding new model (Click `Models` on left menu) and then click `Add Model` button
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
-4. Download model
+4. Downloading model. Search for Llama 32 1B Instruct in the `Discover and download models by keyword search...` text field
 
 ![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
 
