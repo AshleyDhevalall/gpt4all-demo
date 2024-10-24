@@ -20,7 +20,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
 > [!NOTE]
-> [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)
+> [Models](https://docs.gpt4all.io/gpt4all_desktop/models.html)
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model.png)
 
