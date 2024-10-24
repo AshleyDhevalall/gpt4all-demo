@@ -45,7 +45,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 ![settings](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/settings.png)
 
-8. Start chat
+8. Click `New chat` on left menu.
 > [!TIP]
 > [Chat](https://docs.gpt4all.io/gpt4all_desktop/chats.htmll)
 
