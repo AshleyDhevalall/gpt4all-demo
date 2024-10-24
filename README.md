@@ -7,15 +7,6 @@ An open-source ecosystem used for integrating LLMs into applications without pay
 
 Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
 
-### Prerequisites
-* [GPT4All](https://www.nomic.ai/gpt4all)
-* [GPT4All Wiki](https://github.com/nomic-ai/gpt4all/wiki)
-
-## Getting the Source
-
-This project is hosted on [GitHub](https://github.com/AshleyDhevalall/gpt4all-demo). You can clone this project directly using this command:
-
-
 ## Steps to follow
 
 1. Download and install [GPT4All](https://www.nomic.ai/gpt4all)  
@@ -52,6 +43,8 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
 ### Further reading
+[GPT4All](https://www.nomic.ai/gpt4all)
+[GPT4All Wiki](https://github.com/nomic-ai/gpt4all/wiki)
 [What Is GPT4All and How Does It Work?](https://www.makeuseof.com/what-is-gpt4all-and-how-does-it-work/)
 [Frequently Asked Questions](https://docs.gpt4all.io/gpt4all_help/faq.html)
 
