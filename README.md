@@ -1,11 +1,11 @@
 # gpt4all-demo
-The objective of this article is to run large language models locally to analyse powerShell scripts that make use a sql server.
+The objective of this article is to run large language models locally to analyse local docs. In this use case we analyze powershell scripts that make use of a sql server.
 
 ### What is GTP4All?
 
-GPT4All is an open-source ecosystem used for integrating LLMs into applications without paying for a platform or hardware subscription. It was created by Nomic AI, an information cartography company that aims to improve access to AI resources.
+An open-source ecosystem used for integrating LLMs into applications without paying for a platform or hardware subscription. It was created by Nomic AI, an information cartography company that aims to improve access to AI resources.
 
-GPT4All is designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
+Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
 
 ## Benefits
 Run Large Language Models Locally. 
