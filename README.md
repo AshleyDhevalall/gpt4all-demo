@@ -15,10 +15,10 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 ## Reasons why you might want to use GPT4All over ChatGPT.
 
-Portability: Models provided by GPT4All only require four to eight gigabytes of memory storage, do not require a GPU to run, and can easily be saved on a USB flash drive with the GPT4All one-click installer. This makes GPT4All and its models truly portable and usable on just about any modern computer out there.
-Privacy and Security: As explained earlier, unless you have access to ChatGPT Plus, all your ChatGPT conversions are accessible by OpenAI. GPT4All is focused on data transparency and privacy; your data will only be saved on your local hardware unless you intentionally share it with GPT4All to help grow their models.
-Offline Mode: GPT is a proprietary model requiring API access and a constant internet connection to query or access the model. If you lose an internet connection or have a server problem, you won't have access to ChatGPT. This is not the case with GPT4All. Since all the data is already stored on a four to eight-gigabyte package, and inferencing is done locally, you do not require an internet connection to access any models in GPT4All. You can continue chatting and fine-tuning your model even without an internet connection.
-Free and Open Source: Several LLMs provided by GPT4All are licensed under GPL-2. This allows anyone to fine-tune and integrate their own models for commercial use without needing to pay for licensing.
+* Portability: Models provided by GPT4All only require four to eight gigabytes of memory storage, do not require a GPU to run, and can easily be saved on a USB flash drive with the GPT4All one-click installer. This makes GPT4All and its models truly portable and usable on just about any modern computer out there.
+* Privacy and Security: As explained earlier, unless you have access to ChatGPT Plus, all your ChatGPT conversions are accessible by OpenAI. GPT4All is focused on data transparency and privacy; your data will only be saved on your local hardware unless you intentionally share it with GPT4All to help grow their models.
+* Offline Mode: GPT is a proprietary model requiring API access and a constant internet connection to query or access the model. If you lose an internet connection or have a server problem, you won't have access to ChatGPT. This is not the case with GPT4All. Since all the data is already stored on a four to eight-gigabyte package, and inferencing is done locally, you do not require an internet connection to access any models in GPT4All. You can continue chatting and fine-tuning your model even without an internet connection.
+* Free and Open Source: Several LLMs provided by GPT4All are licensed under GPL-2. This allows anyone to fine-tune and integrate their own models for commercial use without needing to pay for licensing.
 
 ### Prerequisites
 * [GPT4All](https://www.nomic.ai/gpt4all)
