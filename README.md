@@ -20,7 +20,7 @@ This project is hosted on [GitHub](https://github.com/AshleyDhevalall/gpt4all-de
 
 1. Download and install GTP4All  
 
-![download](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/download.png)
+<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/download.png" width="100" height="100">
 
 2. Open GTP4All  
 
