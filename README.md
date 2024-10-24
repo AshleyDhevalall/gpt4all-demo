@@ -54,10 +54,10 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
 ## Further reading  
-[Quickstart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)
+[Quickstart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)  
 [Wiki](https://github.com/nomic-ai/gpt4all/wiki)  
 [FAQ](https://docs.gpt4all.io/gpt4all_help/faq.html)  
-[Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
+[Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)  
 [What Is GPT4All and How Does It Work?](https://www.makeuseof.com/what-is-gpt4all-and-how-does-it-work/)  
 
 ## Authors
