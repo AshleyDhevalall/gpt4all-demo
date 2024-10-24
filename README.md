@@ -1,5 +1,5 @@
 # gpt4all-demo
-The objective of this article is to run large language models locally to analyse local docs. In this use case we analyze powershell scripts that make use of a sql server.
+The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze powershell scripts that make use of a sql server.
 
 ### What is GTP4All?
 
