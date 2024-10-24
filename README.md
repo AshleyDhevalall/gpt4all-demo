@@ -13,7 +13,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 * No internet required  
 * Allows smaller businesses, organizations, and independent researchers to use and integrate an LLM for specific applications.
 
-## Reasons why you might want to use GPT4All over ChatGPT.
+## Reasons why you might want to use GPT4All over ChatGPT
 
 * Portability: Models provided by GPT4All only require four to eight gigabytes of memory storage, do not require a GPU to run, and can easily be saved on a USB flash drive with the GPT4All one-click installer. This makes GPT4All and its models truly portable and usable on just about any modern computer out there.
 * Privacy and Security: As explained earlier, unless you have access to ChatGPT Plus, all your ChatGPT conversions are accessible by OpenAI. GPT4All is focused on data transparency and privacy; your data will only be saved on your local hardware unless you intentionally share it with GPT4All to help grow their models.
