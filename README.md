@@ -9,7 +9,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 ## Steps to follow
 
-1. Download GPT4All Desktop [GPT4All](https://www.nomic.ai/gpt4all)
+1. Download [GPT4All Desktop](https://www.nomic.ai/gpt4all)
 > [!TIP]
 > [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html)
 
